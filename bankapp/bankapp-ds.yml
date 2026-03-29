@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: vipulkarke/bankapp:v9
+        image: vipulkarke/bankapp:vv9
         ports:
         - containerPort: 8080
         env:
